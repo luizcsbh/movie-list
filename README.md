@@ -37,7 +37,7 @@ To access the server type in the browser: http://localhost:3000
 
 ## Web application
 
-![Movie List](https://movielistreact.netlify.app) 
+The accesss web application [Movie List](https://movielistreact.netlify.app).
 
 ## Author
 
