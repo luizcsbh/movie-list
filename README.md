@@ -8,7 +8,7 @@
 [![last commit](https://img.shields.io/github/last-commit/luizcsbh/movie-list)](https://github.com/luizcsbh/movie-list/commits)
 [![CodeFactor](https://www.codefactor.io/repository/github/luizcsbh/movie-list/badge)](https://www.codefactor.io/repository/github/luizcsbh/movie-list)
 [![version](https://img.shields.io/github/package-json/v/luizcsbh/movie-list)](https://github.com/luizcsbh/movie-list/blob/master/package.json)
-![language-top](https://img.shields.io/github/languages/top/luizcsbh/movie-list)
+[![language-top](https://img.shields.io/github/languages/top/luizcsbh/movie-list)](https://github.com/luizcsbh/movie-list/search?l=javascript)
 ![language-count](https://img.shields.io/github/languages/count/luizcsbh/movie-list)
 [![twwiter follow](https://img.shields.io/twitter/follow/luizcs?style=social)](https://twitter.com/luizcs)
 
