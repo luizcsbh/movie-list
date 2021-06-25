@@ -1,3 +1,8 @@
+import { MainMenu } from './MainMenu';
+
 export const Header = () => (
-    <h1>Bem-vindo(a) ao movie List</h1>
+   <header className="main-header">
+        <h1>Bem-vindo(a) ao Movie List</h1>
+        <MainMenu />
+   </header>
 )

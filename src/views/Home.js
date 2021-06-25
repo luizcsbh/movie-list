@@ -9,7 +9,6 @@ export const Home = () => {
         const {
             data: { results },
         } = await MoviesServices.getMovies();
-        
         setMovies(results);
     }
     useEffect(() => {
