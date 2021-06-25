@@ -14,7 +14,7 @@
 
 # React Movie List :computer: 
 
-Project frontend of this react component Tabs.
+Front end project with React framework that consumes a Movie List API.
 
 
 ## Prerequisites for the project
