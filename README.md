@@ -1,7 +1,7 @@
 [![issues](https://img.shields.io/github/issues/luizcsbh/movie-list)](https://github.com/luizcsbh/movie-list/issues)
 ![forks](https://img.shields.io/github/forks/luizcsbh/movie-list)
 ![stars](https://img.shields.io/github/stars/luizcsbh/movie-list)
-[![lincença](https://img.shields.io/github/license/luizcsbh/movie-list)](https://github.com/luizcsbh/movie-list/blob/main/LICENSE)
+https://img.shields.io/github/license/luizcsbh/movie-list
 ![code-size](https://img.shields.io/github/languages/code-size/luizcsbh/movie-list)
 [![react-tab](https://img.shields.io/github/deployments/luizcsbh/movie-list/react-tab)](https://github.com/luizcsbh/movie-list/deployments/activity_log?environment=react-tab)
 [![commit activity](https://img.shields.io/github/commit-activity/m/luizcsbh/movie-list)](https://github.com/luizcsbh/movie-list/commits)
