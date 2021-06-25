@@ -1,11 +1,13 @@
-export const Movie = () => (
+import { Link } from "react-router-dom";
+
+export const Movie = ({ movie }) => (
     <div className="movie-item">
         <div>
-            <img src="http://placehold.it/150x150" alt=""/>
+            <img src={`https://image.tmdb.org/t/p/w200/${movie.poster_path}`} alt=""/>
         </div>
         <div className="movie-excerpt">
-            <h3>Batman</h3>
-            <a className="btn btn-primary" href="#">Ver detalhes</a>
+            <h3>{movie.title}</h3>
+            <Link to={`/movie/${movie.id}`} className="btn btn-primary">Ver detalhes</Link>
         </div>
     </div>
-)
+);
