@@ -1,11 +1,14 @@
 import { ApplicationRoutes } from './ApplicationRoutes';
-import { Header } from './components/Header'
-
+import { Header } from './components/Header';
+import { Footer } from './components/Footer';
 function App() {
   return (
     <>
-      <Header />
-      <ApplicationRoutes />
+      <main className='flex-grow-1'>
+        <Header />
+        <ApplicationRoutes />
+      </main>
+      <Footer />
     </>
   );
 }
