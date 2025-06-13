@@ -18,7 +18,7 @@ export const Movie = ({ movie }) => {
     };
 
     return (
-        <div className="movie-item">
+        <div className="movie-item g-2">
             <div className="movie-poster-container">
                 <img src={`https://image.tmdb.org/t/p/w200/${movie.poster_path}`} alt={movie.title} className="movie-poster"/>
                 <span

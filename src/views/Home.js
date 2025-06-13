@@ -3,7 +3,7 @@
 import { useEffect, useState, useCallback } from 'react';
 import { Movie } from '../components/Movie';
 import { MoviesServices } from '../api/MoviesServices';
-import { PaginationControls } from '../components/PaginationControls'; 
+import { PaginationControls } from '../components/PaginationControls';
 
 export const Home = () => {
     const [movies, setMovies] = useState([]);
@@ -59,7 +59,7 @@ export const Home = () => {
 
     return (
         <div className="container">
-            <div className="row gy-5">
+            <div className="row g-2">
                 {movies.map(movie => (
                     <div key={movie.id} className="col-3">
                         <Movie movie={movie} />
@@ -67,7 +67,7 @@ export const Home = () => {
                 ))}
             </div>
             {totalPages > 1 && (
-                <div className="d-flex justify-content-center my-4">
+                <div className="d-flex justify-content-center my-2">
                     <PaginationControls
                         currentPage={currentPage}
                         totalPages={totalPages}
