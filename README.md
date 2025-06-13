@@ -55,7 +55,8 @@ Follow these instructions to set up and run the project in your local environmen
 To start the development server and view the application in your browser:
 
 ```bash
-npm start```
+npm start
+```
 
 The application will be available at `http://localhost:3000`.
 
@@ -78,7 +79,7 @@ This project was developed using the following technologies and libraries:
 
 ## Author
 
-*   **Luiz Santos** - [about.me/luizcsdev](https://about.me/luizcsdev )
+*   **[Luiz Santos](https://portfolioluizsantos.netlify.app/)** 
 
 ## License
 
